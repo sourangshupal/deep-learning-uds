@@ -78,3 +78,4 @@ notebooks/03_ann_working.ipynb
 data/*
 images/*
 README.md
+.gitignore
